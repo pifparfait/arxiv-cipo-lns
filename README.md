@@ -69,6 +69,4 @@ per-sector codes. Datasets are synthetic; no personal or client-level data are i
 
 ## Citation
 
-Please cite the paper and this dataset (see `CITATION.cff`). For a permanent, citable
-DOI and an authorship timestamp, archive a release of this repository on Zenodo
-(https://zenodo.org), which mints a DOI and records the release date.
+Please cite the paper and this dataset (see `CITATION.cff`).
