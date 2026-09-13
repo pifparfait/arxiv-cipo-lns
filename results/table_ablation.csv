@@ -1,0 +1,5 @@
+Sector,N,Cov_MIP,Cov_Greedy,Comp_MIP,Comp_Greedy,Redund_MIP,Redund_Greedy,Cov_p
+Banking,12,1.0,1.0,0.915,0.916,0%,17%,1.0
+Insurance,8,0.969,0.969,0.815,0.803,0%,100%,1.0
+Institutional,12,0.979,0.906,0.742,0.777,0%,100%,0.031
+Pooled,32,0.984,0.957,0.825,0.835,0%,69%,0.02

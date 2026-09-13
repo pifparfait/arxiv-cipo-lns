@@ -1,0 +1,4 @@
+Sector,clients,Portfolios,success_rate,Mean_size,Mean_compat,Mean_cov
+Banking,12,12,1.0,3.0,0.915,1.0
+Insurance,10,8,0.8,1.75,0.815,0.969
+Institutional,12,12,1.0,3.0,0.742,0.979

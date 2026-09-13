@@ -1,0 +1,7 @@
+scenario,information_retained,mean_portfolio_jaccard
+S0,100%,1.0
+S1,80%,0.467
+S2,60%,0.433
+S3,40%,0.192
+S4,minimal,0.233
+S5,extreme_cold_start,0.017

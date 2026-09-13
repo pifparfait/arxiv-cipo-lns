@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this dataset or the CIPO-LNS method, please cite the following."
+title: "CIPO-LNS — Reproducibility Data"
+authors:
+  - family-names: "Atchade-Adelomou"
+    given-names: "Parfait"
+date-released: 2026-08-24
+version: "1.0.0"
+license: CC-BY-4.0
+url: "https://github.com/pifparfait/arxiv-cipo-lns"
